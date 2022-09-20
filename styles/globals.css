@@ -9,6 +9,11 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.active {
+  color: #22c55e;
+}
+
 .content {
   max-width: 960px;
   margin: 0 auto;
@@ -40,6 +45,10 @@ footer {
   margin-top: 60px;
   color: #777;
   border-top: 1px solid #eaeaea;
+}
+
+footer a {
+  color: #22c55e;
 }
 
 .not-found {
